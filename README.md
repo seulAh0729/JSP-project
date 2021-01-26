@@ -268,7 +268,7 @@
 
 <br>
 
-![그림44](C:\Users\이슬아\Desktop\105839840-629d7c80-6015-11eb-9b56-df6e0d4817e9.png)
+![그림44](https://user-images.githubusercontent.com/67575406/105846595-bf9e3000-601f-11eb-9ad9-080f34610e20.png)
 
 <br>
 
