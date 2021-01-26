@@ -66,7 +66,7 @@
 
 ## :movie_camera: YOUTUBE 
 
-![youtube link](https://youtu.be/I8lGndO-Z8Q)
+[youtube link](https://youtu.be/I8lGndO-Z8Q)
 
 <br>
 
