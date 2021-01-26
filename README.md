@@ -66,7 +66,8 @@
 
 ## :movie_camera: YOUTUBE 
 
-[![Video Label](https://user-images.githubusercontent.com/67575406/105845453-173b9c00-601e-11eb-9399-869bbac6073f.JPG)](https://youtu.be/I8lGndO-Z8Q
+[![Video Label](https://user-images.githubusercontent.com/67575406/105845453-173b9c00-601e-11eb-9399-869bbac6073f.JPG)](https://youtu.be/I8lGndO-Z8Q)
+
 
 
 <br>
