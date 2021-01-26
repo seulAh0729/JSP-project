@@ -56,7 +56,7 @@
 
 **개발 언어** :  *JAVA* , *HTML*, *CSS*, *JavaScript* 
 
-**라이브러리** :  *JQuery* , *AJAX*  , *json*,  *JSTL*, *Apache Tomcat* , *CKEditor4* , *Lombok* , *cos*
+**라이브러리** :  *JQuery* , *AJAX*  , *json*,  *JSTL*, *Apache-tomcat-9.0.38* , *CKEditor4* , *Lombok* , *cos*
 
 **데이터베이스** : *Oracle*, *mybatis*
 
