@@ -66,7 +66,7 @@
 
 ## :movie_camera: YOUTUBE 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I8lGndO-Z8Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+![youtube link](https://youtu.be/I8lGndO-Z8Q)
 
 <br>
 
