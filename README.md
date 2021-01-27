@@ -64,7 +64,7 @@
 
 ## :earth_asia: 개발 환경
 
-**개발 언어** :  *JAVA* , *HTML*, *CSS*, *JavaScript* 
+**개발 언어** :  *JAVA* , *HTML*, *CSS*, *JavaScript* , *JSP*
 
 **라이브러리** :  *JQuery* , *AJAX*  , *json*,  *JSTL*, *Apache-tomcat-9.0.38* , *CKEditor4* , *Lombok* , *cos*
 
